@@ -1,5 +1,5 @@
 ## Hi, I'm Chanakanphat Pluemjitt 👋
-#About me:
+# About me:
 I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Developer.
 
 ## PROJECT 
