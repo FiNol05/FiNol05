@@ -10,13 +10,15 @@ I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Develop
 
 
 
-<img src="images/Mixed_Love/Mixed_Love_Select.png" alt="ตัวเลือก Mixed Love" style="display: inline-block; margin: 10px; width="350";>
-<img src="images/Mixed_Love/Mixed_Love_Result.png" alt="ผลลัพธ์จากการเล่น Mixed Love" style="display: inline-block; margin: 10px; width="350";>
+
+
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
     <td> <img src="images/Mixed_Love/Mixed_Love_BG.png" alt="เริ่มเกม Mixed Love" width="30%"> </td>
     <td> <img src="images/Mixed_Love/Mixed_Love_Scene.png" alt="เนื้อเรื่อง Mixed Love" width="30%"> </td>
     <td> <img src="images/Mixed_Love/Mixed_Love_input.png" alt="ใส่ชื่อ Mixed Love" width="350"> </td>
+    <td> <img src="images/Mixed_Love/Mixed_Love_Select.png" alt="ตัวเลือก Mixed Love" width="350"> </td>
+    <td> <img src="images/Mixed_Love/Mixed_Love_Result.png" alt="ผลลัพธ์จากการเล่น Mixed Love" width="350"> </td>
   </tr>
 </table>
 
