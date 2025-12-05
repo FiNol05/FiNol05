@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Chanakanphat Pluemjitt 👋
+#About me:
+I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Developer.
+
+## PROJECT 
+# Mixed Love
+<li> Group project of course Introduction to Object-oriented Programming </li>
+<li> Visual Novel Game that developed in Java applying core principles of OOP concept. </li>
 
 <!--
 **FiNol05/FiNol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
