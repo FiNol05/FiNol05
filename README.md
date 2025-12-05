@@ -6,6 +6,7 @@ I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Develop
 ## Mixed Love
 <li> Group project of course Introduction to Object-oriented Programming </li>
 <li> Visual Novel Game that developed in Java, applying core principles of OOP concept. </li>
+![หน้าเปิดของเกม](image/Mixed_love/Mixed_love_BG.png)
 
 ## BookItBuddies
 <li> Group project of course Modern Application Development </li>
