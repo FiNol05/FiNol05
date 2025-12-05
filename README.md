@@ -21,9 +21,9 @@ I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Develop
 <li> Group project of course Modern Application Development </li>
 <li> Web Application that can manage events, applying JS, HTML, CSS, Python, flask to developed </li>
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; width: 100%; margin-top: 20px;">
-  <img src="images/BookItBuddies/BookItBuddies_Dashboard.png" alt="Dashboard" width="30%">
-  <img src="images/BookItBuddies/BookItBuddies_Event.png" alt="Event" width="30%">
-  <img src="images/BookItBuddies/BookItBuddies_Upcoming.png" alt="Upcoming" width="30%">
+  <img src="images/BookItBuddies/BookItBuddies_Dashboard.png" alt="Dashboard" width="33%">
+  <img src="images/BookItBuddies/BookItBuddies_Event.png" alt="Event" width="33%">
+  <img src="images/BookItBuddies/BookItBuddies_Upcoming.png" alt="Upcoming" width="33%">
 </div>
 
 ## Sous cook
