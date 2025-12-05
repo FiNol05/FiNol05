@@ -6,7 +6,7 @@ I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Develop
 ## Mixed Love
 <li> Group project of course Introduction to Object-oriented Programming </li>
 <li> Visual Novel Game that developed in Java, applying core principles of OOP concept. </li>
-#
+<br>
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; width: 100%; margin-top: 20px;">
   <img src="images/Mixed_Love/Mixed_Love_BG.png" alt="เริ่มเกม Mixed Love" width="19%">
   <img src="images/Mixed_Love/Mixed_Love_Scene.png" alt="เนื้อเรื่อง Mixed Love" width="19%">
@@ -19,7 +19,7 @@ I'm a Computer Science undergrauate at Chiang Mai University, Full-Stack Develop
 ## BookItBuddies
 <li> Group project of course Modern Application Development </li>
 <li> Web Application that can manage events, applying JS, HTML, CSS, Python, flask to developed </li>
-#
+<br>
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; width: 100%; margin-top: 20px;">
   <img src="images/BookItBuddies/BookItBuddies_Dashboard.png" alt="Dashboard" width="33%">
   <img src="images/BookItBuddies/BookItBuddies_Event.png" alt="Event" width="33%">
